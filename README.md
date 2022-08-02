@@ -19,6 +19,12 @@
 
 Projeto focado no Back-end, criado para evoluir os meus conhecimento em node com a possibilidade de interagir com o Front-end
 
+Cadastra novos usuarios
+Cria deleta e atualiza novos artigos
+Cria deleta e atualiza novas Cartegorias
+Autenticação com JWT e Bcrypt
+
+
 #### Tecnologias
 
 - Javascript
@@ -27,6 +33,7 @@ Projeto focado no Back-end, criado para evoluir os meus conhecimento em node com
 - CSS (Bootstrap)
 - Sequelize
 - Java web token
+- Bcrypt
 - MySql
 
 ---
