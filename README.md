@@ -17,7 +17,7 @@
 
 ## Descrição
 
-Projeto foca no Back-end, criado para evoluir os meus conhecimento em node com a possibilidade de interagir com o Front-end
+Projeto focado no Back-end, criado para evoluir os meus conhecimento em node com a possibilidade de interagir com o Front-end
 
 #### Tecnologias
 
